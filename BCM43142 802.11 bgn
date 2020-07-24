@@ -1,0 +1,336 @@
+2020-07-24 04:02:46.723769+0300 0x71       Default     0x0                  0      0    kernel: (AppleACPIPlatform) SSDT 0x00000000C9ED6538 000174 (v01 Intel  zpoddult 00001000 INTL 20120711)
+2020-07-24 04:02:46.723770+0300 0x71       Default     0x0                  0      0    kernel: (AppleACPIPlatform) SSDT 0x00000000C9ED6538 000174 (v01 Intel  zpoddult 00001000 INTL 20120711)
+2020-07-24 04:02:54.822362+0300 0x5cc      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) System booted on pipe 0
+2020-07-24 04:02:54.822433+0300 0x5cc      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Registering for addFramebufferNotificationWithOptions :: GroupID = 16 :: Event = 801 fb is 0
+2020-07-24 04:02:54.822453+0300 0x5cc      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Registering for addFramebufferNotificationWithOptions :: GroupID = 16 :: Event = 801 fb is 1
+2020-07-24 04:02:54.822469+0300 0x5cc      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Registering for addFramebufferNotificationWithOptions :: GroupID = 16 :: Event = 801 fb is 2
+2020-07-24 04:02:54.867738+0300 0x74       Default     0x0                  0      0    kernel: PMRD: AppleIntelFramebuffer tag flags 200
+2020-07-24 04:02:54.868176+0300 0x74       Default     0x0                  0      0    kernel: PMRD: AppleIntelFramebuffer tag flags 200
+2020-07-24 04:02:54.877986+0300 0x74       Default     0x0                  0      0    kernel: PMRD: AppleIntelFramebuffer tag flags 200
+2020-07-24 04:02:54.909520+0300 0x612      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) hmm.. mismatch sizes: 3100 vs 20
+2020-07-24 04:02:54.910652+0300 0x5cc      Default     0x0                  0      0    kernel: (AppleIntelHD5000Graphics) PPGTT is enabled
+2020-07-24 04:02:57.376980+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 11883
+2020-07-24 04:02:57.376986+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 0
+2020-07-24 04:02:57.376990+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:57.392543+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 11898
+2020-07-24 04:02:57.392547+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 1
+2020-07-24 04:02:57.392550+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 1
+2020-07-24 04:02:57.395288+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 11901
+2020-07-24 04:02:57.395294+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 1
+2020-07-24 04:02:57.395298+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 1
+2020-07-24 04:02:57.396411+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 11902
+2020-07-24 04:02:57.396417+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 2
+2020-07-24 04:02:57.396421+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 2
+2020-07-24 04:02:57.606085+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) New display connected at index 2
+2020-07-24 04:02:57.606958+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 12113
+2020-07-24 04:02:57.606964+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 2
+2020-07-24 04:02:57.606968+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 2
+2020-07-24 04:02:57.613009+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12119
+2020-07-24 04:02:57.613014+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 0
+2020-07-24 04:02:57.613016+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.183509+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12689
+2020-07-24 04:02:58.183513+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 0
+2020-07-24 04:02:58.183518+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:58.184288+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 0 1366 x 768 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.227504+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.234447+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12740
+2020-07-24 04:02:58.234453+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 0
+2020-07-24 04:02:58.234465+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.248630+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12754
+2020-07-24 04:02:58.248644+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->0
+2020-07-24 04:02:58.248651+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12754
+2020-07-24 04:02:58.248656+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.251310+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251361+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251407+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251451+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251495+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.251544+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251579+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251605+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251632+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251659+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.251685+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255758+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255792+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255830+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255864+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255899+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.255932+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.255968+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.256001+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.256037+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.256075+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.256107+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.257607+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12763
+2020-07-24 04:02:58.257611+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 0
+2020-07-24 04:02:58.257614+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:58.258337+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 0 1366 x 768 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.276532+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.283410+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12789
+2020-07-24 04:02:58.283416+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 0
+2020-07-24 04:02:58.283420+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.286535+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 12792
+2020-07-24 04:02:58.286546+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->0
+2020-07-24 04:02:58.286551+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 12792
+2020-07-24 04:02:58.286554+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 1
+2020-07-24 04:02:58.288003+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:02:58.288325+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:02:58.297664+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12803
+2020-07-24 04:02:58.297668+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 0
+2020-07-24 04:02:58.297671+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:58.298421+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 0 1366 x 768 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.326505+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.333373+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 12839
+2020-07-24 04:02:58.333379+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 0
+2020-07-24 04:02:58.333383+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.337011+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 12843
+2020-07-24 04:02:58.337016+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 2
+2020-07-24 04:02:58.337020+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 2
+2020-07-24 04:02:58.337791+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 2 2560 x 1440 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.439407+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.445651+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 12951
+2020-07-24 04:02:58.445658+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 2
+2020-07-24 04:02:58.445662+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 2
+2020-07-24 04:02:58.457741+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 12963
+2020-07-24 04:02:58.457757+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->0
+2020-07-24 04:02:58.457767+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 12964
+2020-07-24 04:02:58.457772+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 2
+2020-07-24 04:02:58.536469+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536516+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536562+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536608+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536655+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.536698+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536742+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536785+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536830+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536875+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.536919+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615263+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615315+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615372+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615425+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615490+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.615549+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615610+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615663+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615718+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615770+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.615819+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.639774+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13146
+2020-07-24 04:02:58.639779+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:58.639796+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->3
+2020-07-24 04:02:58.639798+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13146
+2020-07-24 04:02:58.639816+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 13146
+2020-07-24 04:02:58.639819+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 1
+2020-07-24 04:02:58.639830+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->3
+2020-07-24 04:02:58.639832+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 13146
+2020-07-24 04:02:58.639848+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13146
+2020-07-24 04:02:58.639850+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 2
+2020-07-24 04:02:58.639862+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 0->3
+2020-07-24 04:02:58.639864+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13146
+2020-07-24 04:02:58.677196+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13183
+2020-07-24 04:02:58.677202+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 0
+2020-07-24 04:02:58.677207+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 0
+2020-07-24 04:02:58.680520+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 0 1366 x 768 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.709543+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.716651+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13222
+2020-07-24 04:02:58.716657+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 0
+2020-07-24 04:02:58.716661+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:58.716910+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13223
+2020-07-24 04:02:58.716915+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received for fb 2
+2020-07-24 04:02:58.716920+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAAWillEnterDefer notification received for fb 2
+2020-07-24 04:02:58.717686+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Setting display mode on index 2 2560 x 1440 -> 0 x 0 encoded with 0x0  0 bpc with color 0 and range 0
+2020-07-24 04:02:58.739457+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Multi Planes are not supported for this config
+2020-07-24 04:02:58.746391+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13252
+2020-07-24 04:02:58.746398+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeDidChange notification received for fb 2
+2020-07-24 04:02:58.746402+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 2
+2020-07-24 04:02:58.853364+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853418+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853477+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853530+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853589+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.853645+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853700+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853756+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853814+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853870+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.853919+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.854101+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:02:58.930652+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.930698+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.930752+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.930810+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.930882+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.930932+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.930988+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.931068+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.931139+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.931193+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.931246+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942009+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942039+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942073+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942104+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942148+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:58.942201+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942258+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942305+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942340+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942374+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942404+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:58.942539+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:02:59.019201+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019255+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019313+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019374+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019440+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:59.019493+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019548+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019604+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019659+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019700+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.019730+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.021877+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.021908+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.021942+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.021984+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022017+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:59.022048+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022086+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022138+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022175+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022209+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022242+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.022407+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:02:59.099985+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100055+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100140+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100189+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100237+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:02:59.100283+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100331+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100376+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100424+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100476+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.100523+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:02:59.295419+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13801
+2020-07-24 04:02:59.295430+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 3->1
+2020-07-24 04:02:59.295436+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 0 at time 13801
+2020-07-24 04:02:59.295439+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 0
+2020-07-24 04:02:59.295460+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 13801
+2020-07-24 04:02:59.295468+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 3->1
+2020-07-24 04:02:59.295474+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 1 at time 13801
+2020-07-24 04:02:59.295477+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 1
+2020-07-24 04:02:59.295493+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13801
+2020-07-24 04:02:59.295501+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Transitioning wsaa from 3->1
+2020-07-24 04:02:59.295507+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyDisplayModeWillChange notification received on Fb 2 at time 13801
+2020-07-24 04:02:59.295510+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) kIOFBNotifyWSAADidExitDefer notification received for fb 2
+2020-07-24 04:03:00.997854+0300 0x797      Default     0x0                  0      0    kernel: (AppleGraphicsDeviceControl) AGDCC: Unauthorized client 'PerfPowerService' (IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelAzulController/IntelFBClientControl)
+2020-07-24 04:03:03.244467+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 04:03:03.258673+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 04:03:03.325652+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.325701+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.325754+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.325801+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.325860+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.325908+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.325959+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.326006+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.326057+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.326111+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.326157+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.326339+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:03:03.403039+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403091+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403146+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403199+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403254+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.403305+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403359+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403411+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403473+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403533+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.403590+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406178+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406232+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406291+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406345+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406409+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.406466+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406522+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406579+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406639+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406696+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406760+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.406958+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:03:03.483498+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483535+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483587+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483628+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483671+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.483734+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483779+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483814+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483851+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483885+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.483924+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486559+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486592+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486629+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486661+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486693+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.486724+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486757+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486787+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486836+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486900+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.486948+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.487115+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) DisplayPipe Capabilities are not supported on offline Fbs
+2020-07-24 04:03:03.563496+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563540+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563579+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563612+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563647+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Unsupported Extended capabilities type: 0x100
+2020-07-24 04:03:03.563679+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563713+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563744+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563778+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563810+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:03:03.563840+0300 0x366      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Currently unsupported feature requested
+2020-07-24 04:28:00.091209+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 0 in resume from sleep
+2020-07-24 04:28:00.350405+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 2 in resume from sleep
+2020-07-24 04:29:05.019733+0300 0x897      Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 04:29:06.873103+0300 0x897      Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 04:29:07.015154+0300 0x897      Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 04:58:29.761196+0300 0x43e0     Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 05:12:39.048833+0300 0x43e0     Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 05:14:45.613889+0300 0x43e0     Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 06:29:41.539174+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 06:29:41.541026+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 06:29:41.674571+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 06:29:41.686027+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 06:34:22.712321+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 06:36:15.281588+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 07:33:50.846477+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 08:33:51.818549+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 08:33:53.816326+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 08:59:08.369402+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 0 in resume from sleep
+2020-07-24 08:59:08.626608+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 2 in resume from sleep
+2020-07-24 10:56:46.355262+0300 0x1c473    Default     0x0                  0      0    kernel: (AppleGraphicsDeviceControl) AGDCC: Unauthorized client 'PerfPowerService' (IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelAzulController/IntelFBClientControl)
+2020-07-24 12:14:14.349742+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 12:14:19.317202+0300 0xf1       Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 13:44:30.419201+0300 0x244a3    Fault       0x0                  0      0    kernel: (IOAcceleratorFamily2) void IOAccelFenceMachine::fence_timeout(IOTimerEventSource *): IntelAccelerator prodding blockFenceInterrupt
+2020-07-24 14:34:38.847863+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 14:34:38.850830+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 14:34:38.980187+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 14:34:38.982544+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 16:29:30.061199+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 0 in resume from sleep
+2020-07-24 16:29:30.319761+0300 0x5df      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Lighting up display at index 2 in resume from sleep
+2020-07-24 16:50:11.110257+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 16:50:11.112297+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 16:50:11.243313+0300 0x752      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 16:50:11.245331+0300 0x738      Default     0x0                  0      0    kernel: (AppleIntelFramebufferAzul) Blanking out the screen without black gamma
+2020-07-24 18:25:27.261545+0300 0xc3e      Error       0x0                  0      0    kernel: (Sandbox) Sandbox: garcon(464) deny(1) file-read-xattr /Users/perseverancefor-my-only-lord-the-1-god/Downloads/AppleIntelWifiV2
+2020-07-24 18:25:45.615922+0300 0xc3e      Error       0x0                  0      0    kernel: (Sandbox) Sandbox: garcon(464) deny(1) file-read-xattr /Users/perseverancefor-my-only-lord-the-1-god/Downloads/AppleIntelWifiV2
